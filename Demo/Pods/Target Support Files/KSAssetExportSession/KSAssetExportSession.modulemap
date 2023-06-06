@@ -1,0 +1,6 @@
+framework module KSAssetExportSession {
+  umbrella header "KSAssetExportSession-umbrella.h"
+
+  export *
+  module * { export * }
+}

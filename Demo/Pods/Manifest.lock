@@ -1,0 +1,18 @@
+PODS:
+  - KSAssetExportSession (1.0)
+  - KSAssetExportSession/Tests (1.0)
+
+DEPENDENCIES:
+  - KSAssetExportSession (from `../`)
+  - KSAssetExportSession/Tests (from `../`)
+
+EXTERNAL SOURCES:
+  KSAssetExportSession:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KSAssetExportSession: bd5eb6d70e4f2df41f236e9a4c0e6f2124308515
+
+PODFILE CHECKSUM: 0c80936a5a64e941fefc2356da9736e6e922072e
+
+COCOAPODS: 1.6.1
